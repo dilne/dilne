@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dilne
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning about how to integrate deep learning frameworks inside Unreal Engine 4
-- 📫 Send me a message at ________
+- 👋 Hi, I’m @dilne (https://github.com/FuturistAcoustics)
+- 👀 I’m currently integrating deep neural networks inside Unity and Unreal Engine 4 and working on Futurist Acoustics side projects
 
 <!---
 dilne/dilne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
