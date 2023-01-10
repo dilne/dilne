@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dilne (https://github.com/FuturistAcoustics)
-- 👀 I’m currently integrating deep neural networks inside Unity and Unreal Engine 4 and working on Futurist Acoustics side projects
+👋 Hi, I’m @dilne</br>
+👀 I’m implementing deep neural networks inside Unity and Unreal Engine and working on [Futurist Acoustics side projects](https://github.com/FuturistAcoustics)
 
 <!---
 dilne/dilne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
