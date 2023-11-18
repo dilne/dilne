@@ -13,3 +13,8 @@
 
 ## Classification
 - [Audio MNIST Classification on the Free Spoken Digit Dataset](https://github.com/dilne/Free-Spoken-Digit-Dataset) (20 MB DS, CNN) ⭐️
+
+-----
+# 👁Vision
+- [Easy Computer Vision - A plugin providing a no-code solution for running AI models in Unity](https://github.com/FuturistAcoustics/EasyComputerVision) (Unity, Barracuda, ONNX, C#)
+- [Multi-image Input to CNN](https://github.com/dilne/Multi-Image-Input-CNN-Preprocessing)
