@@ -4,7 +4,7 @@
 
 -----
 # 📕Fundamental
-- [k-NN on Iris dataset](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris)
+- [k-NN on Iris dataset](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris-dataset)
 
 -----
 # 🔊Audio
