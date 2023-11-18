@@ -2,6 +2,11 @@
 🟢 I'm available for new projects</br>
 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/dmilne98/)
 
+-----
+# 📕Fundamental
+- [k-NN on Iris dataset ](https://github.com/dilne/k-NN)
+
+-----
 # 🔊Audio
 - [Ultimate Audio Dataset DL Processor](https://github.com/dilne/Ultimate-Audio-Dataset-DL-Processor)
 
