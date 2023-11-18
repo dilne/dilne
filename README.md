@@ -4,7 +4,8 @@
 
 -----
 # 📕Fundamental
-- [k-NN on Iris dataset](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris-dataset)
+- [k-NN to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris-dataset)
+- [Linear Regression to Predict Pricing on USA Housing Dataset](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#linear-regression-on-usa-housing-dataset)
 
 -----
 # 🔊Audio
