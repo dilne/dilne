@@ -5,6 +5,7 @@
 -----
 # 📕Fundamental
 - [k-NN to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris-dataset)
+- [Naive Bayes to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#naive-bayes-on-iris-dataset)
 - [Linear Regression to Predict Pricing on USA Housing Dataset](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#linear-regression-on-usa-housing-dataset)
 
 -----
