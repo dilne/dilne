@@ -15,6 +15,7 @@
 ## Classification
 - [Audio MNIST Classification on the Free Spoken Digit Dataset](https://github.com/dilne/Free-Spoken-Digit-Dataset) (20 MB DS, CNN) ⭐️
 - [Music Genre Classification on the GTZAN Dataset](https://github.com/dilne/GTZAN-Music-Genre-Classification) (1 GB DS, Naive Bayes, SGD, k-NN, Decision Tree, Random Forest, SVM, Logistic Regression, LBFGS NN, XGBoost Cross Gradient Booster, XGBoost Cross Gradient Booster w/ Random Forest) ⭐️⭐️
+- [Rainforest Connection Species Audio Detection](https://github.com/dilne/Rainforest-Connection-Species-Audio-Detection) (20 GB DS, CNN) ⭐️⭐️⭐️
 
 -----
 # 👁Vision
