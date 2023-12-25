@@ -4,9 +4,9 @@
 
 -----
 # 📕Fundamental
-- 🌼[k-NN to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris-dataset)
-- 🌼[Naive Bayes to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#naive-bayes-on-iris-dataset)
-- 🏡[Linear Regression to Predict Pricing on USA Housing Dataset](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#linear-regression-on-usa-housing-dataset)
+- 🌼[k-NN to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris-dataset) ⭐️
+- 🌼[Naive Bayes to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#naive-bayes-on-iris-dataset) ⭐️
+- 🏡[California Housing Price Prediction](https://github.com/dilne/CaliforniaHousing) (Data preprocessing, Linear Regression, Support Vector Regression, Decision Trees, and Random Forest Regression) ⭐️⭐️
 
 -----
 # 🔊Audio
