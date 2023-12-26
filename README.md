@@ -1,5 +1,8 @@
 👋 Hi, I’m @dilne</br>
 🟢 I'm available for new projects</br>
+<a href="https://www.credly.com/badges/dfe0f029-5355-4472-9344-280ec5ef2cc3?source=linked_in_profile">
+<img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width=16px></a>
+Microsoft Certified: Azure AI Fundamentals</br>
 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/dmilne98/)
 
 -----
