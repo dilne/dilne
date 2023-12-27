@@ -7,9 +7,8 @@ Microsoft Certified: Azure AI Fundamentals</br>
 
 -----
 # 📕Fundamental
-- 🌼[k-NN to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#k-nn-on-iris-dataset) ⭐️
-- 🌼[Naive Bayes to Predict Iris Type](https://github.com/dilne/ML-Fundamentals/blob/main/README.md#naive-bayes-on-iris-dataset) ⭐️
-- 🏡[California Housing Price Prediction](https://github.com/dilne/CaliforniaHousing) (Data preprocessing, Linear Regression, Support Vector Regression, Decision Trees, and Random Forest Regression) ⭐️⭐️
+- 🌼[Predicting Iris Type](https://github.com/dilne/ML-Fundamentals) (k-NN, Naive Bayes, SGD, Decision Tree, Random Forest, SVM, Logistic Regression, L-BFGS Neural Network) ⭐️
+- 🏡[California Housing Price Prediction](https://github.com/dilne/CaliforniaHousing) (Data preprocessing, Linear Regression, SVR, Decision Trees, and Random Forest Regression) ⭐️⭐️
 
 -----
 # 🔊Audio
