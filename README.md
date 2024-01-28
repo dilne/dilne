@@ -21,5 +21,5 @@ Microsoft Certified: Azure AI Fundamentals</br>
 
 -----
 # 👁Vision
-- 🔌[Easy Computer Vision - A plugin providing a no-code solution for running AI models in Unity](https://github.com/FuturistAcoustics/EasyComputerVision) (Unity, Barracuda, ONNX, C#)
+- 🔌[Easy Computer Vision - A plugin providing a no-code solution for running AI models in Unity](https://github.com/FuturistAcoustics/EasyComputerVision) (Unity, Sentis (prev. Barracuda), ONNX, C#)
 - 🖼[Multi-image Input to CNN](https://github.com/dilne/Multi-Image-Input-CNN-Preprocessing)
